@@ -1,4 +1,4 @@
-lab4
+lab8
 ====
 
-Lab 4: Programming with Javascript
+Lab 8: Analytic & A/B testing using Woopra
